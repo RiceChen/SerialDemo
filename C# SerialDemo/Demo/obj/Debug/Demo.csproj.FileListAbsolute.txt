@@ -1,0 +1,12 @@
+C:\Users\FAN\Desktop\Demo\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\FAN\Desktop\Demo\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\FAN\Desktop\Demo\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\FAN\Desktop\Demo\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\FAN\Desktop\Demo\Demo\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\FAN\Desktop\Demo\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\FAN\Desktop\Demo\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\FAN\Desktop\Demo\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\FAN\Desktop\Demo\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\FAN\Desktop\Demo\SerialDemo\Demo\bin\Debug\Demo.exe.config
+C:\Users\FAN\Desktop\Demo\SerialDemo\Demo\obj\Debug\Demo.exe
+C:\Users\FAN\Desktop\Demo\SerialDemo\Demo\obj\Debug\Demo.pdb
